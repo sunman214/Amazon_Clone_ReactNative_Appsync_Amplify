@@ -1,0 +1,26 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amazonbackend-staging-74357-authRole",
+      "UnauthRoleArn": "arn:aws:iam::137549098619:role/amplify-amazonbackend-staging-74357-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::137549098619:role/amplify-amazonbackend-staging-74357-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-amazonbackend-staging-74357-deployment",
+      "UnauthRoleName": "amplify-amazonbackend-staging-74357-unauthRole",
+      "StackName": "amplify-amazonbackend-staging-74357",
+      "StackId": "arn:aws:cloudformation:us-west-2:137549098619:stack/amplify-amazonbackend-staging-74357/8ac897f0-0bed-11ed-a19e-0224cce920e7",
+      "AmplifyAppId": "d1jm496e22qndv"
+    },
+    "categories": {
+      "auth": {
+        "amazonbackend0b647caa": {}
+      },
+      "function": {
+        "CreatePaymentIntent": {
+          "deploymentBucketName": "amplify-amazonbackend-staging-74357-deployment",
+          "s3Key": "amplify-builds/CreatePaymentIntent-5754434b474f31372b49-build.zip"
+        }
+      }
+    }
+  }
+}

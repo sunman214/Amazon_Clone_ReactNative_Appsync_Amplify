@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "amazonbackend",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-07-29T03:19:42.817Z"
+}
